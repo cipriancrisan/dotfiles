@@ -80,4 +80,5 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "workbench.colorTheme": "Visual Studio Light",
 }
